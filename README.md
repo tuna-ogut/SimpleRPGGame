@@ -1,4 +1,3 @@
-# SimpleRPGGame
 # Simple RPG Game
 
 Welcome to our simple RPG game! This project was created for learning purposes, following a course to understand the basics of game development.
